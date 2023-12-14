@@ -1,4 +1,4 @@
-# GenoSythe
+# GenoScythe
 
 The purpose of this program is the generation of guide RNAs (gRNAs) for
 CRISPR-Cas9 experiments with a range of different numbers of target
