@@ -89,8 +89,8 @@ This project is licensed under the MIT License.
 ---
 
 ## Author
-[Your Name]  
-[Your Email]  
+Daniel Gebert  
+dg572@cam.ac.uk  
 
 For questions or issues, feel free to reach out or open a GitHub issue.
 
