@@ -1,4 +1,4 @@
-# GenoScythe - gRNA Heuristic Search Tool for CRISPR-Cas9
+# GenoScythe
 
 This repository contains a Perl script for generating and filtering guide RNA (gRNA) sequences for CRISPR-Cas9 experiments, tailored to user-specified genome and annotation files. The tool allows precise selection of gRNAs that meet specific criteria and ensures safe targeting by avoiding gene exons and regulatory regions. It was developed and used
 for the publication [Jansen et al. 2024](https://genesdev.cshlp.org/content/38/13-14/631).
